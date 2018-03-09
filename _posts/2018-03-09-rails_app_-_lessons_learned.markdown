@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails App - Lessons Learned"
-date:       2018-03-09 21:22:42 +0000
+date:       2018-03-09 16:22:43 -0500
 permalink:  rails_app_-_lessons_learned
 ---
 
