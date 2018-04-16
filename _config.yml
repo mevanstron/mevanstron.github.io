@@ -4,7 +4,7 @@ header-img: img/home-bg.png
 email: michael@michaelgregoryevans.com
 copyright_name: mevanstron
 description: > # this means to ignore newlines until "baseurl:"
-  Her'es where I write about things
+  Here's where I write about things
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mevanstron
