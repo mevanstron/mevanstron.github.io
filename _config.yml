@@ -1,15 +1,14 @@
 # Site settings
+author: Michael Evans
 title: The Mevans Blog
 header-img: img/home-bg.png
 email: michael@michaelgregoryevans.com
-copyright_name: mevanstron
+copyright_name: Michael Evans
 description: > # this means to ignore newlines until "baseurl:"
   Here's where I write about things
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mevanstron
-learn_profile: mevanstron
-email_username: michael@michaelgregoryevans.com
 
 # Build settings
 markdown: kramdown
